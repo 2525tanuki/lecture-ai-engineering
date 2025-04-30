@@ -1,3 +1,6 @@
+# Ignore my env file.
+.env_template
+
 # 演習で作成されるシークレットファイルとdbファイル
 **/secrets.toml
 **/secret.toml
